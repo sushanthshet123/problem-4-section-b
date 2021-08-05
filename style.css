@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Manrope", sans-serif;
+}
+
+body {
+  width: 100%;
+  min-height: 100%;
+}
+.badgeHeading {
+  background-color: rgb(17, 196, 17) !important;
+}
+.card_card {
+  width: 300px;
+}
+.list_div {
+  width: 200px !important;
+}
+.fa-chart-line {
+  color: rgb(197, 195, 195);
+  margin: 3px;
+  padding: 3px;
+}
+.fa-check-square {
+  color: rgb(197, 195, 195);
+  margin: 3px;
+  padding: 3px;
+}
+.fa-chart-bar {
+  color: rgb(197, 195, 195);
+  margin: 3px;
+  padding: 3px;
+}
+.fa-chart-area {
+  color: rgb(197, 195, 195);
+  margin: 3px;
+  padding: 3px;
+}
